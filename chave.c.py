@@ -30,7 +30,7 @@ def descriptografar(texto, chave_palavra):
 
 while True:
     print('\n================================')
-    print('   CIFRA DE CESAR ')
+    print('   CIFRA DE VIGENÈRE ')
     print('================================')
     print('1. Criptografar')
     print('2. Descriptografar')
